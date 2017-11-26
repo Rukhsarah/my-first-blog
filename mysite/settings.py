@@ -25,7 +25,7 @@ SECRET_KEY = 'wp6j%#4fbli)du4#p0*s--_)onrt^u8t1pdlgxbi2w=2s2-#9v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Qizlarim>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rukhsarah.pythonanywhere.com']
 
 
 # Application definition
